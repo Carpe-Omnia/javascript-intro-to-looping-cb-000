@@ -1,5 +1,6 @@
 function forLoop(ray) {
-  for( var i = 1; i < 25 ; i++) {
+  var message
+  for( var i = 0; i < 25 ; i++) {
     ray[i - 1] = message
   }
 }
