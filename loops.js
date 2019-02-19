@@ -11,7 +11,7 @@ function forLoop(ray) {
 function whileLoop(number) {
   var number1 = number
   while (number1 >= 0) {
-    if (number1 > 0) {console.log(`#{number1}`)}
+    if (number1 > 0) {console.log(`${number1}`)}
     else {console.log("done")}
     number1 -= 1 ;
   }
