@@ -13,7 +13,7 @@ function whileLoop(number) {
   while (number1 >= 0) {
     if (number1 > 0) {console.log(`#{number1}`)}
     else {console.log("done")}
-    number -= 1 ;
+    number1 -= 1 ;
   }
 }
 
