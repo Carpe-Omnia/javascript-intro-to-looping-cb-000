@@ -16,5 +16,12 @@ function whileLoop(number) {
   }
   return 'done'
 }
+var p = 0;
 
-function doWhileLoop(number) {}
+function incrementVariable() {
+  p = p + 1;
+}
+
+function doWhileLoop(number) {
+
+}
