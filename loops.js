@@ -22,5 +22,5 @@ function incrementVariable() {
 }
 
 function doWhileLoop(array) {
-  array.length = 1 
+  array.length = 1
 }
