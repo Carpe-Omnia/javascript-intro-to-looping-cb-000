@@ -9,7 +9,7 @@ function forLoop(ray) {
 }
 
 function whileLoop(number) {
-  while (number > -1) {
+  while (number >= 0) {
     if (number > 0) {console.log(`#{number}`)}
     else {console.log("done")}
     number -= 1
