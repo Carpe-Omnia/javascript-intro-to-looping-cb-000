@@ -5,6 +5,7 @@ function forLoop(ray) {
     else {message = `I am ${i} strange loops`}
     ray[i - 1] = message
   }
+  return ray
 }
 
 function whileLoop(number) {}
